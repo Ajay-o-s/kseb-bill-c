@@ -1,5 +1,6 @@
 # Code for find Rate of current bill using c
 
+
 ```
 #include <stdio.h>
 #include <string.h>  
