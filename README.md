@@ -52,7 +52,7 @@ void main()
     tt_amout = ca_charge + surchg;
    printf("\nElectricity Bill\n");
    printf("Customer Name                       :%s\n",cu_name);
-   printf("unit used                           :%f\n",unit);
+   printf("Unit used                           :%f\n",unit);
    printf("Energr charge                       :%f\n",ca_charge);
    printf("Surchage Amount                     :%d\n",surchg);
    printf("Tottal Amount                       :%f\n",tt_amout);
