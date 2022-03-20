@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <string.h>  
+#include <stdio.h>  
 void main()
 {  
     char cu_name[25]; // cu_name = Customer Name 
